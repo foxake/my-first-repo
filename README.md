@@ -1,1 +1,1 @@
-This is test of my first repositry
+This is my awesome repo
